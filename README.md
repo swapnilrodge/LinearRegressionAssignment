@@ -29,8 +29,8 @@ In the dataset provided, you will notice that there are three columns named 'cas
 
 
 ## Conclusions
-R- Sqaured train:  0.82   Adj. R-Squared train: 0.819
-R- Sqaured test :  0.81   Adj. R-Squared test : 0.807
+- R- Sqaured train:  0.82   Adj. R-Squared train: 0.819
+- R- Sqaured test :  0.81   Adj. R-Squared test : 0.807
 
 Hence we can colude that the final model fit isn't by chance, and has descent predictive power.
 
