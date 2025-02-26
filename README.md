@@ -1,5 +1,5 @@
 # Linear-Regression-Bike-Sharing Case Study
-> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes. You will need to submit a Jupyter notebook for the same. 
+> This assignment is a programming assignment wherein you have to build a multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Problem Statement
@@ -10,8 +10,8 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 In such an attempt, BoomBikes aspires to understand the demand for shared bikes among the people after this ongoing quarantine situation ends across the nation due to Covid-19. They have planned this to prepare themselves to cater to the people's needs once the situation gets better all around and stand out from other service providers and make huge profits.
 
 They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
-•	Which variables are significant in predicting the demand for shared bikes.
-•	How well those variables describe the bike demands
+- Which variables are significant in predicting the demand for shared bikes.
+- How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
